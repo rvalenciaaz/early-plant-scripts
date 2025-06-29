@@ -1,4 +1,4 @@
-![Spottearly Logo](assets/spot_logo.png)
+![Spottearly Logo](assets/spot logo.png)
 
 # Spottearly
 
