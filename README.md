@@ -1,4 +1,5 @@
-![Spottearly Logo](assets/spot logo.png)
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![Spottearly Logo](/assets/spot logo.png)
 
 # Spottearly
 
