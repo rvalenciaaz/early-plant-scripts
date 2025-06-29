@@ -1,6 +1,4 @@
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
-![Spottearly Logo](/assets/spot logo.png)
-
+![alt text](https://github.com/Miluanda/Early-plant-scripts/blob/assets/spot logo.png?raw=true)
 # Spottearly
 
 Spottearly is a simple toolkit for detecting the earliest signs of plant germination in time-lapse imagery.
