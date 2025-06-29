@@ -1,4 +1,4 @@
-![alt text](https://github.com/rvalenciaaz/early-plant-scripts/blob/assets/spot logo.png)
+![alt text](https://github.com/rvalenciaaz/early-plant-scripts/blob/assets/spot%20logo.png)
 # Spottearly
 
 Spottearly is a simple toolkit for detecting the earliest signs of plant germination in time-lapse imagery.
