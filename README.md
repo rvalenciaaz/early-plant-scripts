@@ -1,4 +1,4 @@
-<br/><img src='/assets/spot logo.png'>
+<img src='/assets/spot logo.png' alt="logo" width="100" height="100">
 # Spottearly
 
 Spottearly is a simple toolkit for detecting the earliest signs of plant germination in time-lapse imagery.
