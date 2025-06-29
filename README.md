@@ -1,4 +1,3 @@
-# early-plant-scripts
 ````markdown
 ![Spottearly Logo](assets/spot%20logo.png)
 
@@ -102,6 +101,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *Happy germinating!*
+
+```
+```
+
 
 ```
 ```
