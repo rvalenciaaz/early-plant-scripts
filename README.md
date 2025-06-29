@@ -2,8 +2,7 @@
 
 # Spottearly
 
-Spottearly is a simple toolkit for detecting the earliest signs of plant germination in time-lapse imagery.
-
+Spottearly is a simple toolkit for detecting the earliest signs of plant stresses and diseases using in-situ measurements and AI-guided transcriptomics/metagenomics
 ## Projects
 
 - [Evo2 Clustering Mutation Pipeline](evo2_clustering_mutation_pipeline.md)
